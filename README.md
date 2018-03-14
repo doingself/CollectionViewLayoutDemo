@@ -32,7 +32,15 @@ if tag == 1{
 }
 ```
 
-## 参考
+# Requirements
++ Swift 4
++ iOS 10+
++ Xcode 9+
+
+---
+
+鸣谢
+
 + http://www.hangge.com/blog/cache/detail_1594.html
 + http://www.hangge.com/blog/cache/detail_591.html
 + https://www.cnblogs.com/tinych/p/6893074.html
